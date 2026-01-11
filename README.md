@@ -1,5 +1,5 @@
-# Speakeasy
 a multimodal AI system designed for real-time presentation feedback.
+
 Phase 1: Data Engineering & "Fast Stream" Development (Week 1)
 Goal: Build the acoustic foundation for detecting how the user speaks.
 Acoustic Dataset (SynthSpeak-500): Use your Python scripts to inject "umms," "errs," and artificial silences into your 20 "Golden" recordings.
